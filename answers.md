@@ -2,15 +2,15 @@
 
 ## Answers
 
-**Name:**_________________________
-**Name:**_________________________
+**Name:** Isaiah Kushner
+**Name:** Davis Voelkel
 
 
 Place all written answers from `recitation-08.md` here for easier grading.
 
 
 
-- **1b)**
+- **1b)** $O(|E|log|E|)$ for both work and span.
 
 
 
